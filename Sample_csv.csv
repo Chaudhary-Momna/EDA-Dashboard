@@ -1,0 +1,101 @@
+Transaction_ID,Product_Name,Category,Price_USD,Quantity_Sold,Customer_Rating
+TXN-1001,USB Drive,Accessories,958.9,280,4.5
+TXN-1002,Headphones,Accessories,199.88,476,3.2
+TXN-1003,Desk Lamp,Office Supplies,410.44,369,4.4
+TXN-1004,Webcam,Electronics,81.85,353,4.7
+TXN-1005,Webcam,Electronics,15.92,453,3.4
+TXN-1006,Smartphone,Electronics,636.84,245,3.0
+TXN-1007,Smartphone,Electronics,70.3,197,3.7
+TXN-1008,Keyboard,Accessories,468.22,253,4.2
+TXN-1009,Keyboard,Accessories,1034.03,144,3.3
+TXN-1010,USB Drive,Accessories,30.72,98,4.9
+TXN-1011,Mouse,Accessories,471.72,355,3.2
+TXN-1012,Monitor,Electronics,300.62,453,3.2
+TXN-1013,Desk Lamp,Office Supplies,55.75,215,3.8
+TXN-1014,Mouse,Accessories,800.09,11,3.9
+TXN-1015,Webcam,Electronics,662.85,319,3.1
+TXN-1016,Mouse,Accessories,933.53,171,3.8
+TXN-1017,Monitor,Electronics,723.51,313,3.7
+TXN-1018,USB Drive,Accessories,632.19,199,3.7
+TXN-1019,Mouse,Accessories,654.54,289,3.7
+TXN-1020,Tablet,Electronics,366.08,310,3.1
+TXN-1021,USB Drive,Accessories,516.73,138,3.4
+TXN-1022,Desk Lamp,Office Supplies,31.68,90,4.4
+TXN-1023,Keyboard,Accessories,928.96,270,4.9
+TXN-1024,Smartphone,Electronics,152.3,144,4.7
+TXN-1025,Mouse,Accessories,128.06,416,4.3
+TXN-1026,Headphones,Accessories,879.58,369,3.5
+TXN-1027,Keyboard,Accessories,574.57,110,4.9
+TXN-1028,Keyboard,Accessories,916.53,227,3.5
+TXN-1029,USB Drive,Accessories,62.91,216,3.9
+TXN-1030,Smartphone,Electronics,535.61,188,3.1
+TXN-1031,USB Drive,Accessories,578.31,105,4.4
+TXN-1032,Headphones,Accessories,310.41,246,4.1
+TXN-1033,Monitor,Electronics,1132.28,336,3.6
+TXN-1034,Webcam,Electronics,1058.35,179,4.6
+TXN-1035,Tablet,Electronics,140.01,293,4.6
+TXN-1036,Monitor,Electronics,1072.68,340,3.6
+TXN-1037,USB Drive,Accessories,1076.87,240,4.8
+TXN-1038,Laptop,Electronics,285.1,455,3.0
+TXN-1039,Tablet,Electronics,376.17,207,4.0
+TXN-1040,Tablet,Electronics,589.52,234,3.2
+TXN-1041,Desk Lamp,Office Supplies,1132.35,383,3.4
+TXN-1042,Desk Lamp,Office Supplies,848.08,122,3.1
+TXN-1043,Smartphone,Electronics,1155.5,304,4.0
+TXN-1044,Laptop,Electronics,190.48,449,3.1
+TXN-1045,Laptop,Electronics,1172.29,229,3.1
+TXN-1046,Headphones,Accessories,423.91,394,3.5
+TXN-1047,Mouse,Accessories,644.16,227,5.0
+TXN-1048,USB Drive,Accessories,811.48,212,3.7
+TXN-1049,Laptop,Electronics,877.94,289,3.9
+TXN-1050,Mouse,Accessories,765.73,404,4.6
+TXN-1051,Laptop,Electronics,193.6,196,3.4
+TXN-1052,Keyboard,Accessories,715.21,452,3.4
+TXN-1053,Smartphone,Electronics,621.83,156,3.7
+TXN-1054,USB Drive,Accessories,221.62,426,3.8
+TXN-1055,USB Drive,Accessories,1125.03,138,4.4
+TXN-1056,Tablet,Electronics,149.47,160,4.1
+TXN-1057,Smartphone,Electronics,320.66,261,3.3
+TXN-1058,Tablet,Electronics,627.21,378,3.5
+TXN-1059,Headphones,Accessories,1082.0,18,3.6
+TXN-1060,Keyboard,Accessories,875.26,140,4.7
+TXN-1061,Webcam,Electronics,939.15,417,4.7
+TXN-1062,Laptop,Electronics,206.53,431,4.3
+TXN-1063,Keyboard,Accessories,456.16,482,4.3
+TXN-1064,Mouse,Accessories,205.56,347,4.0
+TXN-1065,Keyboard,Accessories,787.57,178,3.4
+TXN-1066,Monitor,Electronics,296.14,286,3.4
+TXN-1067,Desk Lamp,Office Supplies,784.81,144,4.4
+TXN-1068,Laptop,Electronics,657.91,452,3.7
+TXN-1069,USB Drive,Accessories,311.8,167,4.9
+TXN-1070,Keyboard,Accessories,1072.08,292,3.9
+TXN-1071,Headphones,Accessories,610.62,293,4.3
+TXN-1072,Laptop,Electronics,246.36,326,4.0
+TXN-1073,Monitor,Electronics,43.81,58,3.1
+TXN-1074,Headphones,Accessories,1061.94,389,3.0
+TXN-1075,Desk Lamp,Office Supplies,406.94,311,4.9
+TXN-1076,Keyboard,Accessories,1176.69,125,3.6
+TXN-1077,Headphones,Accessories,241.23,170,3.6
+TXN-1078,Mouse,Accessories,674.81,232,4.7
+TXN-1079,Keyboard,Accessories,690.52,289,3.4
+TXN-1080,Webcam,Electronics,440.0,136,4.0
+TXN-1081,Mouse,Accessories,397.22,113,4.4
+TXN-1082,Webcam,Electronics,441.0,486,3.6
+TXN-1083,Smartphone,Electronics,974.98,418,4.2
+TXN-1084,Smartphone,Electronics,21.14,45,4.6
+TXN-1085,Laptop,Electronics,99.06,409,3.1
+TXN-1086,Keyboard,Accessories,415.52,101,4.2
+TXN-1087,USB Drive,Accessories,811.35,60,3.9
+TXN-1088,Webcam,Electronics,715.14,351,3.5
+TXN-1089,Smartphone,Electronics,989.78,63,4.1
+TXN-1090,Headphones,Accessories,633.86,62,3.5
+TXN-1091,Headphones,Accessories,556.86,271,3.1
+TXN-1092,Monitor,Electronics,502.45,364,4.3
+TXN-1093,Monitor,Electronics,172.3,379,4.0
+TXN-1094,Keyboard,Accessories,957.3,328,3.9
+TXN-1095,Smartphone,Electronics,107.97,238,3.4
+TXN-1096,USB Drive,Accessories,522.55,405,3.8
+TXN-1097,Smartphone,Electronics,1099.53,248,3.5
+TXN-1098,Webcam,Electronics,861.8,497,4.9
+TXN-1099,Laptop,Electronics,1146.52,496,4.3
+TXN-1100,Headphones,Accessories,739.89,256,3.1
