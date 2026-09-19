@@ -117,7 +117,7 @@ if uploaded_file is not None:
         outliers = ((df[numeric_cols] < (Q1 - 1.5 * IQR)) | (df[numeric_cols] > (Q3 + 1.5 * IQR))).sum().sum()
         st.write(f"🔍 Total outliers detected: **{outliers}** (using IQR method).")
     else:
-        st.write("⏭️ Skipping correlation (need at least 2 numeric columns).")
+        st.write("⏭️ Skipping outliers (no numeric columns found).")
  
  
     st.write(f"Rows: {df.shape[0]}, Columns: {df.shape[1]}") # [0]axis --> Rows, [1]axis ---> Columns
